@@ -5,6 +5,7 @@ import Light from './components/Light/white.jpg';
 import Form from './components/Form';
 import Alert from './components/Alert';
 import About from './components/About';
+import Footer from './components/Footer';
 import React, {useState} from 'react';
 import {
   BrowserRouter as Router,
@@ -51,6 +52,7 @@ function App() {
                   </Route>
                 </Switch>
           </div>
+          <Footer mode={mode}/>
       </Router>
   );
 }
