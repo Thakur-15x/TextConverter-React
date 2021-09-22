@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TextConverter-React/static/css/main.465f244f.chunk.css",
+    "main.js": "/TextConverter-React/static/js/main.1f2e68db.chunk.js",
+    "main.js.map": "/TextConverter-React/static/js/main.1f2e68db.chunk.js.map",
+    "runtime-main.js": "/TextConverter-React/static/js/runtime-main.1c07a13d.js",
+    "runtime-main.js.map": "/TextConverter-React/static/js/runtime-main.1c07a13d.js.map",
+    "static/js/2.a63bd201.chunk.js": "/TextConverter-React/static/js/2.a63bd201.chunk.js",
+    "static/js/2.a63bd201.chunk.js.map": "/TextConverter-React/static/js/2.a63bd201.chunk.js.map",
+    "static/js/3.e1516795.chunk.js": "/TextConverter-React/static/js/3.e1516795.chunk.js",
+    "static/js/3.e1516795.chunk.js.map": "/TextConverter-React/static/js/3.e1516795.chunk.js.map",
+    "index.html": "/TextConverter-React/index.html",
+    "static/css/main.465f244f.chunk.css.map": "/TextConverter-React/static/css/main.465f244f.chunk.css.map",
+    "static/js/2.a63bd201.chunk.js.LICENSE.txt": "/TextConverter-React/static/js/2.a63bd201.chunk.js.LICENSE.txt",
+    "static/media/dark.012e6abc.jpg": "/TextConverter-React/static/media/dark.012e6abc.jpg",
+    "static/media/App.css": "/TextConverter-React/static/media/white.d92d3813.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c07a13d.js",
+    "static/js/2.a63bd201.chunk.js",
+    "static/css/main.465f244f.chunk.css",
+    "static/js/main.1f2e68db.chunk.js"
+  ]
+}
