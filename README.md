@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TextConverter
+- TextConverter is a utility that can manipulate your text in the way you want.
 
-[Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
